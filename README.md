@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ayaz168
 - 👀 I’m interested in Computer Vision, Robotics, anything interesting.
 - 🌱 I’m currently learning Robotics, NLP.
-- 💞️ I’m looking to collaborate on ... Robotics
 - 📫 ayazafzal168@icloud.com
 
 <!---
