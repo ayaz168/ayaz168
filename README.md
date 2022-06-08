@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @ayaz168
 - 👀 I’m interested in Computer Vision, Robotics, anything interesting.
-- 🌱 I’m currently learning Robotics, NLP.
+- 🌱 I’ve strong knowledge of Java where I can use technologies like Collections, JDBC & Hibernate(Theoratical).
+- 🌱 I've strong python programming skills along with C++.
+- 🌱 My knowledge of Data Structure and Algorithm is also very good.
 - 📫 ayazafzal168@icloud.com
 
 <!---
