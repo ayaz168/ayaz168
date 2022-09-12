@@ -1,5 +1,5 @@
 -  Hi, I’m @ayaz168
--  Currently I'm devloping application using MERN stack.
+-  Currently I'm devloping application using MERN stack and improving my Full Stack Development skills.
 -  I’ve strong knowledge of Java where I can use technologies like Collections, JDBC & Hibernate(Theoratical).
 -  ayazafzal168@icloud.com
 
