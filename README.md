@@ -1,6 +1,7 @@
 -  Hi, I’m @ayaz168
--  Currently I'm devloping application using MERN stack and improving my Full Stack Development skills.
--  I’ve strong knowledge of Java where I can use technologies like Collections, JDBC & Hibernate(Theoratical).
+-  Currently I'm devloping application using Spring Boot and improving my Full Stack Development skills.
+-  I’ve strong knowledge of Java as well as Javascript where I have used technologies like Collections, JDB, , Spring Security, Spring Data JPA, Android App Development in Java.
+-  I’ve also worked with python and different ml libraries (such as tensorflow and sklearn) in academic as well as personal projects. 
 -  ayazafzal168@icloud.com
 
 <!---
